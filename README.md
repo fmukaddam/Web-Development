@@ -7,12 +7,12 @@ It also contains a landing page, a page where we can see a comparison of all of 
 <h3> 1) A landing page containing: </h3>
 - An explanation of the project.
 - Links to each visualizations page. There is a sidebar containing preview images of each plot, and clicking an image takes the user to that visualization.<br>
-![alt text](https://github.com/fmukaddam/Web-Development/blob/main/Resources/Images/Image_2.pngraw=true)
+
 <h3> 2) Four visualization pages, each with: </h3>
 - A descriptive title and heading tag.
 - The plot/visualization itself for the selected comparison.
 - A paragraph describing the plot and its significance.
-![alt text](https://github.com/fmukaddam/Web-Development/blob/main/Resources/Images/Image_2.png)
+
 
 
 <h3> 3) A "Comparisons" page that: </h3>
@@ -22,7 +22,7 @@ It also contains a landing page, a page where we can see a comparison of all of 
 <h3> 4) A "Data" page that: </h3>
 - Displays a responsive table containing the data used in the visualizations.
 - The table must be a bootstrap table component.
-![alt text](https://github.com/fmukaddam/Web-Development/blob/main/Resources/Images/Image_3.png)
+
 
 
 
