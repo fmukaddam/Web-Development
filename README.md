@@ -7,8 +7,7 @@ It also contains a landing page, a page where we can see a comparison of all of 
 <h3> 1) A landing page containing: </h3>
 - An explanation of the project.
 - Links to each visualizations page. There is a sidebar containing preview images of each plot, and clicking an image takes the user to that visualization.<br>
-![alt text](https://github.com/fmukaddam/Web-Development/blob/main/Resources/Images/Image_1.png)
-
+![alt text](https://github.com/fmukaddam/Web-Development/blob/main/Resources/Images/Image_2.pngraw=true)
 <h3> 2) Four visualization pages, each with: </h3>
 - A descriptive title and heading tag.
 - The plot/visualization itself for the selected comparison.
